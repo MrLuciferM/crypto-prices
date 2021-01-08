@@ -15,7 +15,7 @@ st.set_page_config(layout="wide")
 #---------------------------------#
 # Title
 
-st.image('crypto-price\logo.jpg', width=500)
+st.image('https://github.com/MrLuciferM/crypto-prices/blob/master/logo.jpg?raw=true', width=500)
 
 st.title('Crypto Price App')
 st.markdown("""
